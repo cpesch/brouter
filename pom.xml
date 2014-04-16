@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.btools</groupId>
     <artifactId>brouter</artifactId>
-    <version>0.9.8-SNAPSHOT</version>
+    <version>0.9.8-20140416</version>
     <packaging>pom</packaging>
     <url>http://brensche.de/brouter/</url>
     <name>brouter</name>
@@ -31,7 +30,7 @@
     <scm>
         <connection>scm:git:https://github.com/abrensch/brouter</connection>
         <developerConnection>scm:git:git@github.com:abrensch/brouter.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>brouter-0.9.8-20140416</tag>
     </scm>
 
     <properties>
