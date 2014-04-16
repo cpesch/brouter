@@ -28,6 +28,12 @@
         </developer>
     </developers>
 
+    <scm>
+        <connection>scm:git:https://github.com/abrensch/brouter</connection>
+        <developerConnection>scm:git:git@github.com:abrensch/brouter.git</developerConnection>
+        <tag>HEAD</tag>
+    </scm>
+
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
